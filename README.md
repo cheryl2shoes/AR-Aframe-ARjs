@@ -1,2 +1,2 @@
 # AR-Aframe-ARjs
-Web AR experimenting with Aframe and AR.js
+Web Augumented Reality experimenting with Aframe and AR.js
